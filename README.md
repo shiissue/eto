@@ -43,7 +43,6 @@ a.aewanted1-linkp:hover{margin-right:1.5px;}
   
   
 
-</head>
 
 <body translate="no" >
   <link href="https://fonts.googleapis.com/css?family=Spartan:600,800|Inconsolata&display=swap" rel="stylesheet">
